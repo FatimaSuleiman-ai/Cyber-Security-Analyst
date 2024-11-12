@@ -1,8 +1,10 @@
 # Professional Statement
 Step one
 List two to three strengths that you currently have or are committed to developing  (e.g., strong written and verbal communication, time management, programming, etc.).
+#
 Step two
 List one to two values you have (e.g., protecting organizations, protecting people, adhering to laws, ensuring equitable access, etc.).
+#
 Step three
 Ask yourself some clarifying questions to determine what to include in your professional statement:
 1.	What most interests me about the field of cybersecurity?
